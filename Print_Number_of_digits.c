@@ -1,3 +1,7 @@
+Definition of Static:-  A static int variable remains in memory while the program is running. A normal or auto variable is destroyed when a function
+                        call where the variable was declared is over. For example, we can use static int to count a number of times a function is 
+                        called, but an auto variable can't be used for this purpose.
+
 // print and count the number of digits
 #include <stdio.h>
 int number(int digit)
