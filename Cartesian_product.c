@@ -36,9 +36,6 @@ int main()
 return 0;
 }
 
-![2021-10-21](https://user-images.githubusercontent.com/85106967/138150861-7eb47e1c-7618-4ad6-b55f-923af55d335c.png)
-
-
 // OR
 // METHOD 2
 // FIND CARTESIAN PRODUCT WITH FUNCTION METHOD
